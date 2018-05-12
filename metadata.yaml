@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1094
     wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28741#The-Young-Alaskans-on-the-Trail
 gutenberg_issued: '2009-05-09'
 gutenberg_type: Text
 identifiers:
